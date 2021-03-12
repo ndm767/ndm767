@@ -1,6 +1,5 @@
 - Hi, I’m @ndm767
 - I’m interested in C++, Python, OpenGL, SDL2
-- I’m currently learning C++
 - How to reach me: idk make an issue or something  
 This was from an auto-generated template pls don't roast me
 <!---
